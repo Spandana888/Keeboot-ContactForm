@@ -1,0 +1,18 @@
+.thanks-card{
+   text-align: center;
+}
+
+.thanks-card button{
+    padding:10px 15px;
+    margin: 0px 20px;
+    width:250px;
+    background-color: #403549;
+    color: #ffffff;
+    border: 1px solid #403549;
+    border-radius: 5px;
+}
+
+.thanks-card p:first-child{
+    font-size: 50px;
+    padding-bottom: 0px !important;
+}

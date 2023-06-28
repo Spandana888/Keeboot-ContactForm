@@ -1,0 +1,21 @@
+.contact{
+    border-top: 1px solid #dbcece;
+    border-bottom: 1px solid #dbcece;
+    margin: 10% 0;
+    padding: 10% 0;
+}
+
+.social-media span{
+    font-size: 30px;
+    margin-right: 20px;
+}
+
+.contact div{
+    padding-bottom: 20px;
+    color: rgb(133, 133, 133);
+}
+
+.contact span{
+    padding-left: 10px;
+}
+

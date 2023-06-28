@@ -1,0 +1,32 @@
+#home{
+  display: flex;
+  background-color: #eef1f5;
+  border-radius: 8px;
+  border: 1px solid #dbcece;
+}
+
+#contact-form,
+#contact-information{
+  padding: 30px;
+}
+
+#contact-information{
+  border-left: 1px solid #dbcece;
+}
+#contact-form{
+  width:75%;
+}
+
+#contact-information{
+  width:25%;
+}
+
+#header h1{
+  font-size:36px;
+}
+
+#header p,
+#contact-form p{
+  color: rgb(133, 133, 133);
+  padding-bottom: 18px;
+}
