@@ -1,11 +1,9 @@
 import React from 'react';
 import './ContactInformation.css';
-import { ImFacebook2 } from 'react-icons/im';
-import { FaInstagram } from 'react-icons/fa';
-import { ImTwitter } from 'react-icons/im';
+import { ImFacebook2, ImTwitter } from 'react-icons/im';
+import { FaInstagram, FaPhone } from 'react-icons/fa';
 import { SlLocationPin } from 'react-icons/sl';
 import { TfiEmail } from 'react-icons/tfi';
-import { FaPhone } from 'react-icons/fa'
 
 const ContactInformation = () => {
   return (

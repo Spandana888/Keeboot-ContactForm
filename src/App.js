@@ -8,7 +8,7 @@ function App() {
     <React.Fragment>
        <section id="header">
         <h1>Contact Us</h1>
-        <p>We love questions and feedback - and we're always happy to help! <br /> Here are some ways to conatct us.</p>
+        <p>We love questions and feedback - and we're always happy to help! Here are some ways to conatct us.</p>
        </section>
        <section id="home">
           <section id="contact-form">
