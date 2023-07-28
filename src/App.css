@@ -13,13 +13,6 @@
 #contact-information{
   border-left: 1px solid #dbcece;
 }
-#contact-form{
-  width:75%;
-}
-
-#contact-information{
-  width:25%;
-}
 
 #header h1{
   font-size:36px;
@@ -29,4 +22,27 @@
 #contact-form p{
   color: rgb(133, 133, 133);
   padding-bottom: 18px;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+  /* Your styles for tablet devices go here */
+  #home{
+    display: block;
+  }
+  #contact-form, #contact-information{
+    padding: 35px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  /* Your styles for mobile devices go here */
+  #home{
+    display: block;
+  }
+  #header h1{
+    text-align: center;
+  }
+  #contact-information{
+    text-align: center;
+  }
 }
